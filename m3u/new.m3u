@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1,Bein Sports 1
+rtmp://151.80.21.128/myapp//927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports 2
+rtmp://151.80.21.128/myapp//928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports 3
+rtmp://151.80.21.128/myapp//929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports 4
+rtmp://151.80.21.128/myapp//930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports 5
+rtmp://151.80.21.128/myapp//931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports 6
+rtmp://151.80.21.128/myapp//932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein Sports
+rtmp://151.80.21.128/myapp//933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:0,AR:beIN_Sports_1_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/270.ts
+#EXTINF:0,AR:beIN_Sports_2_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/262.ts
+#EXTINF:0,AR:beIN_Sports_3_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/261.ts
+#EXTINF:0,AR:beIN_Sports_4_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/260.ts
+#EXTINF:0,AR:beIN_Sports_5_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/259.ts
+#EXTINF:0,AR:beIN_Sports_6_HD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/258.ts
+#EXTINF:0,AR:BEIN_SPORTS_1_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/541.ts
+#EXTINF:0,AR:BEIN_SPORTS_2_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/542.ts
+#EXTINF:0,AR:BEIN_SPORTS_3_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/543.ts
+#EXTINF:0,AR:BEIN_SPORTS_4_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/544.ts
+#EXTINF:0,AR:BEIN_SPORTS_5_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/545.ts
+#EXTINF:0,AR:BEIN_SPORTS_6_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/546.ts
+#EXTINF:0,AR:BEIN_SPORTS_7_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/547.ts
+#EXTINF:0,AR:BEIN_SPORTS_8_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/548.ts
+#EXTINF:0,AR:BEIN_SPORTS_9_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/549.ts
+#EXTINF:0,AR:BEIN_SPORTS_10_SD
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/550.ts
